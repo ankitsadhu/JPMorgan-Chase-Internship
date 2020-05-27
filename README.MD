@@ -2,7 +2,7 @@
 
 ## My Certificate of Completion
 
-![Certificate](JPMorganCertigicate.pdf)
+![Certificate](https://github.com/ankitsadhu/JPMorgan-Chase-Internship/blob/master/JPMorganCertificate.pdf)
 
 ## For any doubts/queries!!!
 
