@@ -2,9 +2,7 @@
 
 ## My Certificate of Completion
 
-<img src="https://drive.google.com/file/d/1bL2FCLQnE9LOxPb6nQSYZDpdREFRNlxw/view?usp=sharing"
-     alt="JPMorganCertificate"
-     />
+![Certificate](JPMorganCertigicate.pdf)
 
 ## For any doubts/queries!!!
 
