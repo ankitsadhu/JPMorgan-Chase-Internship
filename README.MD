@@ -2,7 +2,7 @@
 
 ## My Certificate of Completion
 
-![Certificate](JPMorganCertigicate.pdf)
+![Certificate](Certificate.png)
 
 ## For any doubts/queries!!!
 
