@@ -2,6 +2,7 @@
 
 ## My Certificate of Completion
 
+
 ![Certificate](Certificate.png)
 
 ## For any doubts/queries!!!
